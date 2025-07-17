@@ -1,13 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\WinFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\insercao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:insercao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|c:\\users\\danie\\dev.net\\projetos\\projeto login\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4D39E9C1-F9CB-4640-9FDB-FDBE6DAFBAA3}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +58,116 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insercao.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Insercao.cs",
+              "RelativeDocumentMoniker": "Insercao.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Insercao.cs",
+              "RelativeToolTip": "Insercao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:36:33.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Conexao.cs",
+              "RelativeDocumentMoniker": "Conexao.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Conexao.cs",
+              "RelativeToolTip": "Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:30:27.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Consulta.cs",
+              "RelativeDocumentMoniker": "Consulta.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Consulta.cs",
+              "RelativeToolTip": "Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:04:05.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T01:18:36.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:29:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Acesso.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Acesso.cs",
+              "RelativeDocumentMoniker": "Acesso.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Acesso.cs",
+              "RelativeToolTip": "Acesso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:15:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\WinFormsApp1\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T01:11:07.185Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:48:49.202Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Acesso.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Acesso.cs",
+              "RelativeDocumentMoniker": "Acesso.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Projetos\\Projeto Login\\Acesso.cs [Projeto]",
+              "RelativeToolTip": "Acesso.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:49:42.884Z",
               "EditorCaption": " [Projeto]"
             }
           ]

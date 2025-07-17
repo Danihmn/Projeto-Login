@@ -55,6 +55,7 @@
             button1.TabIndex = 5;
             button1.Text = "Entrar";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 

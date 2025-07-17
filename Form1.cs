@@ -13,5 +13,12 @@ namespace WinFormsApp1
             Cadastro janelaCadastro = new Cadastro();
             janelaCadastro.ShowDialog();
         }
+
+        // Evento do botão de entrar
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Acesso janelaAcesso = new Acesso();
+            janelaAcesso.ShowDialog();
+        }
     }
 }

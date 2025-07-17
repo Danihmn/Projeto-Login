@@ -1,5 +1,8 @@
-﻿namespace WinFormsApp1
+﻿using System.Data.SQLite;
+
+namespace WinFormsApp1
 {
+    #region Sessao de insercao
     /// <summary>
     /// Classe responsável por inserir dados no banco de dados
     /// </summary>
@@ -13,7 +16,7 @@
         /// <param name="senha">Senha do usuário a ser inserida</param>
         public static void InserirDados(string nome, string email, string senha)
         {
-            using (var conexao = Conexao.ObterConexao())
+            using (SQLiteConnection conexao = Conexao.ObterConexao())
             {
                 try
                 {
@@ -23,15 +26,14 @@
                     comando.Parameters.AddWithValue("@nome", nome);
                     comando.Parameters.AddWithValue("@email", email);
                     comando.Parameters.AddWithValue("@senha", senha);
-                    comando.ExecuteNonQuery();
+                    comando.ExecuteNonQuery(); // Executa o comando sem retorno
                 }
-                catch (Exception ex)
+                catch
                 {
-                    MessageBox.Show("Erro ao inserir os dados. " + ex.Message);
-                    Thread.Sleep(3000);
                     throw;
                 }
             }
         }
     }
+    #endregion
 }
